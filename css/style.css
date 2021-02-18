@@ -197,7 +197,7 @@ a {
 /* reservation */
 
 .reservation {
-  padding: 100px 20px 100px 20px;
+  padding: 100px 0px;
   text-align: center;
 }
 
@@ -217,7 +217,7 @@ footer p {
 /* where */
 
 .where {
-  padding: 180px 0px 100px 0px;
+  padding: 180px 0px;
   overflow: auto;
   min-height: 100vh;
 }
