@@ -1,5 +1,5 @@
 # htmlcss-projetcafe-netlify
-Ce projet est un site web construit en utilisant du html, css, en auto-formation, à l'aide de la plate-forme de formation aux technologies du web, [Dyma](https://dyma.fr). <br>
+Ce projet est un site web construit en utilisant du html, css, en autoformation, à l'aide de la plateforme de formation aux technologies du web, [Dyma](https://dyma.fr). <br>
 Une démonstration en direct est disponible ici : [https://christiantheobald.github.io/htmlcss-projetcafe-netlify](https://christiantheobald.github.io/htmlcss-projetcafe-netlify)
 ## Comment l'utiliser
 Ce site présente plusieurs pages d'un café fictif à Paris. <br>
